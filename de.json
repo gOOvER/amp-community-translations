@@ -34,7 +34,7 @@
     "LocaleName": "de",
     "Strings": {
         "Related Link:": "Related Link:",
-        "Advanced Details": "Advanced Details",
+        "Advanced Details": "Erweiterte Details",
         "Create Instance": "Create Instance",
         "SomeFile.json": "SomeFile.json",
         "Excluded from backups": "Excluded from backups",
@@ -465,7 +465,7 @@
         "AMP Update Available:": "AMP Update Available:",
         "Release Notes": "Release Notes",
         "Update Now": "Update Now",
-        "Connecting to remote AMP instance...": "Connecting to remote AMP instance...",
+        "Connecting to remote AMP instance...": "Verbinde mit remote AMP-Instanz...",
         "Login with Biometrics": "Login with Biometrics",
         "Two factor authentication (2FA)": "Two factor authentication (2FA)",
         "Secure login allows you to login using your device, your fingerprint, a security key, or any other Webauthn compatible security method.": "Secure login allows you to login using your device, your fingerprint, a security key, or any other Webauthn compatible security method.",
