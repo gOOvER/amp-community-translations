@@ -5,6 +5,31 @@
         "März",
         "Apr",
         "Mai",
-        "Juni"
-    ]
+        "Juni",
+        "Juli",
+        "Aug",
+        "Sept",
+        "Okt",
+        "Nov",
+        "Dez"
+    ],
+    "DaysOfWeek": [
+        "Mo",
+        "Di",
+        "Mi",
+        "Do",
+        "Fr",
+        "Sa",
+        "So"
+    ],
+    "LongDaysOfWeeek": [
+        "Montag",
+        "Dienstag",
+        "Mittwoch",
+        "Donnerstag",
+        "Freitag",
+        "Samstag",
+        "Sontag"
+    ],
+    "LocaleName": "de"
 }
